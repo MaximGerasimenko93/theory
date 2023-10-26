@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "0b116e5c9d3c7aec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd92b95601d5126f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2580a22e744b1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb0a7e39bf2b845e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5025ef20bb23b2e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9cf06d763139a52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "bee711c0af133b2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea2252c5b10f446c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "right": {
+    "id": "534b75a105dcc379",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61e58977d09ebcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e01c87677677125",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3e08385497f8170",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1367b742a3e5545a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "394885a7d1a37d8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ef2580a22e744b1e",
+  "lastOpenFiles": [
+    "Без названия 2.md",
+    "Без названия.md",
+    "Без названия 1.md",
+    "Тождественное привидение типов.md",
+    "Интерфейс.md",
+    "Collection.md",
+    "Перегрузка статических методов.md",
+    "Особенности вложенных классов.md",
+    "Интерфейс Model.md",
+    "Parallel GC.md",
+    "Metadata.md"
+  ]
+}

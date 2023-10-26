@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "cf3d1c9b85d8ad8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c437bfd881253e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76b1a673ee7a0892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хранилище/Delay/2023-10-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06f67bd051d6a22e",
+    "type": "split",
+    "children": [
+      {
+        "id": "283f4f669fb51860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c3f196bfa89e15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "be2ec88ee1e810db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3806089333babff7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "440df4e46568b3ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "a66b3b40691adafb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f765c3e44ef383f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224069650c9affbb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a55604e726e3ef1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Хранилище/Delay/2023-10-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e29e08938e728b5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Хранилище/Delay/2023-10-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46e239cfa69cc058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "827e352c0de33c8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Хранилище/Delay/2023-10-26.md"
+              }
+            }
+          },
+          {
+            "id": "1d6efd94327b53a5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdb33661e47de2db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-spaced-repetition:Повторить карточки": false
+    }
+  },
+  "active": "76b1a673ee7a0892",
+  "lastOpenFiles": [
+    "Хранилище/Base/Проблемы при параллельном доступе с использованием транзакций.md",
+    "Хранилище/Base/Транзакция.md",
+    "Хранилище/Base/Уровни изолированности транзакций.md",
+    "Хранилище/Base/Индексы по количественному составу.md",
+    "Хранилище/Base/Основные свойства транзакций.md",
+    "Хранилище/Base/Индексы по характеристике содержимого.md",
+    "Хранилище/Base/Типология индексов.md",
+    "Хранилище/Base/Индексы по структуре.md",
+    "Хранилище/Base/Индексы по воздействию на источник данных.md",
+    "Хранилище/Base/Кластерный индекс.md",
+    "Хранилище/Base/Индексы по источнику данных.md",
+    "Хранилище/Base/Индексы по порядку сортировки.md",
+    "Хранилище/Base/Недостатки индексов.md",
+    "Хранилище/Base/Предпочтительное применение индексов.md",
+    "Хранилище/Base/Индексы.md",
+    "Хранилище/Base/Потенциальный ключ.md",
+    "Хранилище/Base/Преимущества индексов.md",
+    "Хранилище/Base/Primary key.md",
+    "Хранилище/Base/Составной ключ.md",
+    "Хранилище/Base/Простой ключ.md",
+    "Хранилище/Base/Ограничения на целостность данных в SQL.md",
+    "Хранилище/Base/Foreign key.md",
+    "Хранилище/Base/UNIQUE.md",
+    "Хранилище/Base/Отличия между ограничениями PRIMARY и UNIQUE.md",
+    "Хранилище/Base/CHECK.md",
+    "Хранилище/Base/Оператор JOIN.md",
+    "Хранилище/Delay/10. Октябрь/16.10 - 22.10.2023",
+    "Хранилище/Delay/10. Октябрь/09.10 - 15.10.2023",
+    "Хранилище/Delay/10. Октябрь/04.10 - 08.10.2023",
+    "Хранилище/Delay/10. Октябрь",
+    "Хранилище/Delay/09. Сентябрь/18.09 - 24.09.2023",
+    "Хранилище/Files/BETWEEN.png",
+    "Resources/collections.png",
+    "Resources/Затенение переменных.png",
+    "Resources/Доступность переменных.png",
+    "Resources/Модификаторы доступа.png",
+    "Resources/GlobalClassVariable_Ex.png",
+    "Resources/Примитивные типы.png",
+    "Resources/HashMap.png",
+    "Хранилище/Delay/09. Сентябрь/11.09 - 17.09.2023",
+    "Хранилище/Delay/09. Сентябрь/01.09 - 10.09.2023",
+    "Хранилище/Delay/09. Сентябрь",
+    "Хранилище/Delay/08. Август",
+    "Хранилище/Delay/07. Июль",
+    "Хранилище/Files/IN.png",
+    "Хранилище/Files/CREATE INDEX.png"
+  ]
+}
